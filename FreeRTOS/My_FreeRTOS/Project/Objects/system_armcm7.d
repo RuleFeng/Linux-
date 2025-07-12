@@ -1,0 +1,9 @@
+.\objects\system_armcm7.o: RTE\Device\ARMCM7\system_ARMCM7.c
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include\ARMCM7.h
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm7.h
+.\objects\system_armcm7.o: D:\keil5\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h
+.\objects\system_armcm7.o: C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include\system_ARMCM7.h

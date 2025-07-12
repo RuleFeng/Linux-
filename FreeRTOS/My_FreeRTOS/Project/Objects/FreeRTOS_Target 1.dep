@@ -1,0 +1,63 @@
+Dependencies for Project 'FreeRTOS', Target 'Target 1': (DO NOT MODIFY !)
+F (..\User\main.c)(0x67E2B722)(--c99 -c --cpu Cortex-M7 --fpu=SoftVFP -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\freertos\Source\include -I ..\freertos\Source\portable\RVDS\ARM_CM7 -I ..\User -I ..\freertos\Source-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include-D__UVISION_VERSION="528" -D_RTE_ -DARMCM7-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\freertos\Source\include\list.h)(0x67E26E66)
+I (..\freertos\Source\include\portmacro.h)(0x67DE5AE7)
+I (D:\keil5\ARM\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (D:\keil5\ARM\ARM\ARMCC\include\stddef.h)(0x5CEB79E2)
+I (..\freertos\Source\include\FreeRTOSConfig.h)(0x67E2AFBC)
+I (..\freertos\Source\include\FreeRTOS.h)(0x67E2B32D)
+I (..\freertos\Source\include\projdefs.h)(0x61C679D4)
+I (..\freertos\Source\include\portable.h)(0x67C819AD)
+I (..\freertos\Source\include\task.h)(0x67E2AD1C)
+F (..\freertos\Source\portable\RVDS\ARM_CM7\port.c)(0x67E2AD1F)(--c99 -c --cpu Cortex-M7 --fpu=SoftVFP -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\freertos\Source\include -I ..\freertos\Source\portable\RVDS\ARM_CM7 -I ..\User -I ..\freertos\Source-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include-D__UVISION_VERSION="528" -D_RTE_ -DARMCM7-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (..\freertos\Source\include\FreeRTOS.h)(0x67E2B32D)
+I (..\freertos\Source\include\FreeRTOSConfig.h)(0x67E2AFBC)
+I (..\freertos\Source\include\projdefs.h)(0x61C679D4)
+I (..\freertos\Source\include\portable.h)(0x67C819AD)
+I (..\freertos\Source\include\portmacro.h)(0x67DE5AE7)
+I (D:\keil5\ARM\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (D:\keil5\ARM\ARM\ARMCC\include\stddef.h)(0x5CEB79E2)
+I (..\freertos\Source\include\list.h)(0x67E26E66)
+I (..\freertos\Source\include\task.h)(0x67E2AD1C)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include\ARMCM7.h)(0x5BBD6B7A)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm7.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B971444)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include\system_ARMCM7.h)(0x5BBD6B7A)
+F (..\freertos\Source\list.c)(0x67E26E4F)(--c99 -c --cpu Cortex-M7 --fpu=SoftVFP -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\freertos\Source\include -I ..\freertos\Source\portable\RVDS\ARM_CM7 -I ..\User -I ..\freertos\Source-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include-D__UVISION_VERSION="528" -D_RTE_ -DARMCM7-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (..\freertos\Source\include\FreeRTOS.h)(0x67E2B32D)
+I (..\freertos\Source\include\FreeRTOSConfig.h)(0x67E2AFBC)
+I (..\freertos\Source\include\projdefs.h)(0x61C679D4)
+I (..\freertos\Source\include\portable.h)(0x67C819AD)
+I (..\freertos\Source\include\portmacro.h)(0x67DE5AE7)
+I (D:\keil5\ARM\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (D:\keil5\ARM\ARM\ARMCC\include\stddef.h)(0x5CEB79E2)
+I (..\freertos\Source\include\list.h)(0x67E26E66)
+I (D:\keil5\ARM\ARM\ARMCC\include\stdlib.h)(0x5CEB79E2)
+F (..\freertos\Source\include\list.h)(0x67E26E66)()
+F (..\freertos\Source\include\portmacro.h)(0x67DE5AE7)()
+F (..\freertos\Source\include\FreeRTOSConfig.h)(0x67E2AFBC)()
+F (..\freertos\Source\include\FreeRTOS.h)(0x67E2B32D)()
+F (..\freertos\Source\task.c)(0x67E2B6AA)(--c99 -c --cpu Cortex-M7 --fpu=SoftVFP -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\freertos\Source\include -I ..\freertos\Source\portable\RVDS\ARM_CM7 -I ..\User -I ..\freertos\Source-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include-D__UVISION_VERSION="528" -D_RTE_ -DARMCM7-o .\objects\task.o --omf_browse .\objects\task.crf --depend .\objects\task.d)
+I (..\freertos\Source\include\FreeRTOS.h)(0x67E2B32D)
+I (..\freertos\Source\include\FreeRTOSConfig.h)(0x67E2AFBC)
+I (..\freertos\Source\include\projdefs.h)(0x61C679D4)
+I (..\freertos\Source\include\portable.h)(0x67C819AD)
+I (..\freertos\Source\include\portmacro.h)(0x67DE5AE7)
+I (D:\keil5\ARM\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (D:\keil5\ARM\ARM\ARMCC\include\stddef.h)(0x5CEB79E2)
+I (..\freertos\Source\include\list.h)(0x67E26E66)
+I (..\freertos\Source\include\task.h)(0x67E2AD1C)
+F (..\Doc\readme.txt)(0x67AEEF9A)()
+F (RTE\Device\ARMCM7\startup_ARMCM7.s)(0x5C8B5FFA)(--cpu Cortex-M7 --fpu=SoftVFP --li -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "ARMCM7 SETA 1"--list .\listings\startup_armcm7.lst --xref -o .\objects\startup_armcm7.o --depend .\objects\startup_armcm7.d)
+F (RTE\Device\ARMCM7\system_ARMCM7.c)(0x5C8A247E)(--c99 -c --cpu Cortex-M7 --fpu=SoftVFP -D__MICROLIB --li -g -O0 --apcs=interwork --split_sections -I ..\freertos\Source\include -I ..\freertos\Source\portable\RVDS\ARM_CM7 -I ..\User -I ..\freertos\Source-I.\RTE\_Target_1-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include-D__UVISION_VERSION="528" -D_RTE_ -DARMCM7-o .\objects\system_armcm7.o --omf_browse .\objects\system_armcm7.crf --depend .\objects\system_armcm7.d)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include\ARMCM7.h)(0x5BBD6B7A)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm7.h)(0x5C8F4DD4)
+I (D:\keil5\ARM\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B971444)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F4DD4)
+I (C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\Device\ARM\ARMCM7\Include\system_ARMCM7.h)(0x5BBD6B7A)

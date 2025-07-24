@@ -1,9 +1,10 @@
 # <center><font color=black>**Git的使用**</font></center>
 # 目录
 1. [简单开始使用git](#1) 
-2. [和github连接](#2) 
-3. [git指令](#3) 
-4. [报错及解决方法](#4) 
+2. [.gitignore文件](#2) 
+3. [和github连接](#3) 
+4. [git指令](#4) 
+5. [报错及解决方法](#5) 
 <p id="1"><p>
 
 ## 简单的开始使用git
@@ -24,10 +25,14 @@
 ### 将缓存区的内容提交到本地仓库
 <p id="2"><p>
 
-## 和github连接
+## .gitignore文件
+
 <p id="3"><p>
 
-## git指令
+## 和github连接
 <p id="4"><p>
+
+## git指令
+<p id="5"><p>
 
 ## 报错及解决方法
